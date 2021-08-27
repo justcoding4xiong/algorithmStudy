@@ -74,5 +74,8 @@ public class SinglyLinkedList {
         System.out.println("switch master");
         System.out.println("test notify");
 
+        System.out.println("second branch commit ");
+
+
     }
 }
