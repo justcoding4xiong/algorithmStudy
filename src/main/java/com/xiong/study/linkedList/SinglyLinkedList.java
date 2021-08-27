@@ -73,6 +73,7 @@ public class SinglyLinkedList {
         singlyLinkedList.printAll();
         System.out.println("switch master");
         System.out.println("test notify");
+        System.out.println("#50 提个需求测试以下");
 
     }
 }
