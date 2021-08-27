@@ -72,7 +72,7 @@ public class SinglyLinkedList {
         System.out.println("打印原始：");
         singlyLinkedList.printAll();
 
-        System.out.println("");
+        System.out.println("second branch commit ");
 
 
     }
